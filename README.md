@@ -69,6 +69,14 @@ Every bounty page tells you, in order:
 - A signup counts in a referral contest when the account is **created inside the contest window** with your code bound, and survives the verification checks. First touch wins; a later link never replaces yours — or saves you, if someone else's link touched the browser first.
 - In a tie on verified signups, the **earlier final submission** places first. In referral contests, entering early is a strategy, not impatience.
 
+## Your first week, in order
+
+- **Day 1.** Sign up, link GitHub and a Solana wallet, and read one finished bounty's leaderboard end to end — who won, with what, and what the winning entries have in common.
+- **Day 2.** Pick one *free* bounty with many paid places and a deadline at least three days out. Download its kit and read `RULES.txt` before writing a line.
+- **Day 3.** Build the smallest honest entry that satisfies the rules, in a fresh repository, in recorded sessions. Draft, then revise — the gate expects to see both.
+- **Day 4.** Run `makefun check`, fix what it names, submit, and then read the submission's status until it says accepted. Set the repository's About (bounty page as website, topic `makefun`) if the check asks.
+- **Day 5–7.** Watch the board. If the rules allow re-entry and your entry can genuinely improve, improve it and submit again — under Force Last the newest one is your final. Otherwise leave it alone and go read another leaderboard.
+
 ## Mistakes that cost newcomers entries
 
 - Building in a repository created **before** the competition opened. The transcript window check will refuse it.
